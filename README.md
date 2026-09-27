@@ -2,6 +2,12 @@
 
 FinTrack is a responsive finance dashboard built with React, Tailwind CSS, and Zustand. It focuses on presenting transaction data in a clean, modern interface while demonstrating role-based access behavior, lightweight state management, and simple financial insights.
 
+## Live Project
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20FinTrack-blue?style=for-the-badge)](https://fintrackdashboard.vercel.app/)
+
+**Live:** https://fintrackdashboard.vercel.app/
+
 ## Overview
 
 The project is designed as a frontend-first dashboard foundation for finance-related workflows. It includes a centered responsive layout, card-based sections, transaction visibility by role, insight summaries, filtering support, and local persistence for transaction data using `localStorage`.
