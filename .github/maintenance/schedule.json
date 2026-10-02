@@ -1,0 +1,14 @@
+{
+  "2026-10-05": {
+    "task_id": "quality_checks",
+    "description": "Document the build and lint checks used before accepting dashboard changes."
+  },
+  "2026-10-15": {
+    "task_id": "data_flow_notes",
+    "description": "Add a concise note describing the current local transaction-data flow."
+  },
+  "2026-10-24": {
+    "task_id": "development_workflow",
+    "description": "Add a simple frontend development workflow for FinTrack."
+  }
+}
